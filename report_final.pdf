@@ -1,0 +1,51 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 894 >>
+stream
+BT
+/F1 12 Tf 1 0 0 1 72 760 Tm (REPORT // FINAL) Tj
+/F1 10 Tf 1 0 0 1 72 724 Tm (CASE 001 - INTERNAL REVIEW) Tj
+/F1 10 Tf 1 0 0 1 72 688 Tm (Status: CLOSED) Tj
+/F1 10 Tf 1 0 0 1 72 670 Tm (Classification: RESTRICTED) Tj
+/F1 10 Tf 1 0 0 1 72 634 Tm (The investigation was terminated before completion.) Tj
+/F1 10 Tf 1 0 0 1 72 616 Tm (All collected materials were transferred to the archive.) Tj
+/F1 10 Tf 1 0 0 1 72 598 Tm (No further inquiries will be processed.) Tj
+/F1 10 Tf 1 0 0 1 72 562 Tm (Subject denies any connection to the events) Tj
+/F1 10 Tf 1 0 0 1 72 544 Tm (described in the original case file.) Tj
+/F1 10 Tf 1 0 0 1 72 508 Tm (This document is the final version.) Tj
+/F1 10 Tf 1 0 0 1 72 490 Tm (Earlier drafts were deleted.) Tj
+/F1 10 Tf 1 0 0 1 72 454 Tm ([signature illegible]) Tj
+0.82 0.82 0.82 rg
+/F1 4.5 Tf 1 0 0 1 72 36 Tm (s010lvloon0day.github.io/moreau-project) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Title (report_final) /Author (MOREAU) /Producer (Archive Export 2.1) /CreationDate (D:20260318094127Z) >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001186 00000 n 
+0000001256 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R /Info 6 0 R >>
+startxref
+1381
+%%EOF
